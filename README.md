@@ -12,3 +12,6 @@ Simply visit the website and click the "Get New Tip" button to see a new ADHD ti
 
 ## Contributing
 Feel free to submit pull requests to add more tips or improve the functionality.
+
+## Website
+https://vanshajxb.github.io/adhd-tips/
